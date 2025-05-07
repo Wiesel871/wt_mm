@@ -11,3 +11,7 @@ it contains rows for each br in the game and 4 collumns for for full downtier, p
 as of May 5th 2025
 best br's 7.3 and 8.7
 worst 6.7 and 8.0 (and <=3.0)
+
+
+
+if you want to do your own stats, delete the contents of (ONLY!) the GAB and GRB morning, day and evening tables
